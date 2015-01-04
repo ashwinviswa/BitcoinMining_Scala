@@ -1,0 +1,165 @@
+format version: 5
+output mode:
+1 items
+0 -> multiple
+output directories:
+1 items
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin
+compile options:
+6 items
+0 -> -javabootclasspath
+1 -> 
+2 -> -bootclasspath
+3 -> E:\scala_eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar
+4 -> -encoding
+5 -> Cp1252
+javac options:
+0 items
+compiler version:
+1 items
+0 -> 2.11.2
+compile order:
+1 items
+0 -> Mixed
+name hashing:
+1 items
+0 -> false
+products:
+28 items
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\BitCoinMessage.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\CreateWorker$.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\CreateWorker.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$3.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$4.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1$$anonfun$1.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1$$anonfun$2.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1$.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1$delayedInit$body.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Result$.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Result.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\ScheduleWork$.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\ScheduleWork.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\ServerIp$.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\ServerIp.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Work$.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Work.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerActor$$anonfun$calculateBitCoins$1$$anonfun$apply$1.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerActor$$anonfun$calculateBitCoins$1.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerActor$$anonfun$receive$2.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerActor.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerUpdate$.class
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerUpdate.class
+binary dependencies:
+3 items
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> C:\Program Files\Java\jdk1.6.0_45\jre\lib\rt.jar
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\DOS_project\scala_project\akka-actor_2.11-2.3.6.jar
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> E:\scala_eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar
+direct source dependencies:
+0 items
+direct external dependencies:
+0 items
+public inherited source dependencies:
+0 items
+public inherited external dependencies:
+0 items
+member reference internal dependencies:
+0 items
+member reference external dependencies:
+0 items
+inheritance internal dependencies:
+0 items
+inheritance external dependencies:
+0 items
+class names:
+28 items
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> BitCoinMessage
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> CreateWorker
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> CreateWorker$
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> MasterActor
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> MasterActor$$anonfun$receive$1
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$1
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$2
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$3
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$4
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> Project1
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> Project1$
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> Project1$$anonfun$1
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> Project1$$anonfun$2
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> Project1$delayedInit$body
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> Result
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> Result$
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> ScheduleWork
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> ScheduleWork$
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> ServerIp
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> ServerIp$
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> Work
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> Work$
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> WorkerActor
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> WorkerActor$$anonfun$calculateBitCoins$1
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> WorkerActor$$anonfun$calculateBitCoins$1$$anonfun$apply$1
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> WorkerActor$$anonfun$receive$2
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> WorkerUpdate
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> WorkerUpdate$
+used names:
+0 items
+product stamps:
+28 items
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\BitCoinMessage.class -> lastModified(1418881963809)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\CreateWorker$.class -> lastModified(1418881963819)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\CreateWorker.class -> lastModified(1418881963819)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$1.class -> lastModified(1418881963849)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$2.class -> lastModified(1418881963849)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$3.class -> lastModified(1418881963849)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1$$anonfun$applyOrElse$4.class -> lastModified(1418881963849)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor$$anonfun$receive$1.class -> lastModified(1418881963839)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\MasterActor.class -> lastModified(1418881963829)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1$$anonfun$1.class -> lastModified(1418881963869)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1$$anonfun$2.class -> lastModified(1418881963869)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1$.class -> lastModified(1418881963859)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1$delayedInit$body.class -> lastModified(1418881963869)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Project1.class -> lastModified(1418881963859)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Result$.class -> lastModified(1418881963879)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Result.class -> lastModified(1418881963879)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\ScheduleWork$.class -> lastModified(1418881963889)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\ScheduleWork.class -> lastModified(1418881963889)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\ServerIp$.class -> lastModified(1418881963909)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\ServerIp.class -> lastModified(1418881963899)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Work$.class -> lastModified(1418881963909)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\Work.class -> lastModified(1418881963919)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerActor$$anonfun$calculateBitCoins$1$$anonfun$apply$1.class -> lastModified(1418881963949)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerActor$$anonfun$calculateBitCoins$1.class -> lastModified(1418881963929)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerActor$$anonfun$receive$2.class -> lastModified(1418881963949)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerActor.class -> lastModified(1418881963929)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerUpdate$.class -> lastModified(1418881963959)
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\bin\WorkerUpdate.class -> lastModified(1418881963969)
+source stamps:
+1 items
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> hash(ac21e0083c8d092698e21b95e3fb818429aa9163)
+binary stamps:
+3 items
+C:\Program Files\Java\jdk1.6.0_45\jre\lib\rt.jar -> lastModified(1414853462969)
+E:\DOS_project\scala_project\akka-actor_2.11-2.3.6.jar -> lastModified(1410371750044)
+E:\scala_eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar -> lastModified(1406156216000)
+class names:
+3 items
+C:\Program Files\Java\jdk1.6.0_45\jre\lib\rt.jar -> java.io.Serializable
+E:\DOS_project\scala_project\akka-actor_2.11-2.3.6.jar -> akka.actor.Actor
+E:\scala_eclipse\eclipse\plugins\org.scala-lang.scala-library_2.11.2.v20140721-095018-73fb460c1c.jar -> scala.Serializable
+internal apis:
+1 items
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> 
+rO0ABXNyABB4c2J0aS5hcGkuU291cmNlFlpwRASfbtoCAAZJAAdhcGlIYXNoWgAIaGFzTWFjcm9MABhfaW50ZXJuYWxPbmx5X25hbWVIYXNoZXN0ACRMeHNidGkvYXBpL19pbnRlcm5hbE9ubHlfTmFtZUhhc2hlcztMAANhcGl0ABVMeHNidGkvYXBpL1NvdXJjZUFQSTtMAAtjb21waWxhdGlvbnQAF0x4c2J0aS9hcGkvQ29tcGlsYXRpb247WwAEaGFzaHQAAltCeHBzrWSsAHNyACJ4c2J0aS5hcGkuX2ludGVybmFsT25seV9OYW1lSGFzaGVzVNq+mfrU7EwCAAJbAA9pbXBsaWNpdE1lbWJlcnN0ACNbTHhzYnRpL2FwaS9faW50ZXJuYWxPbmx5X05hbWVIYXNoO1sADnJlZ3VsYXJNZW1iZXJzcQB+AAd4cHVyACNbTHhzYnRpLmFwaS5faW50ZXJuYWxPbmx5X05hbWVIYXNoO0lagLbdlov0AgAAeHAAAAAAdXEAfgAJAAAAAHNyABN4c2J0aS5hcGkuU291cmNlQVBJuV6n+SkjOKQCAAJbAAtkZWZpbml0aW9uc3QAF1tMeHNidGkvYXBpL0RlZmluaXRpb247WwAIcGFja2FnZXN0ABRbTHhzYnRpL2FwaS9QYWNrYWdlO3hwdXIAF1tMeHNidGkuYXBpLkRlZmluaXRpb247iMlc57TjXg4CAAB4cAAAAApzcgATeHNidGkuYXBpLkNsYXNzTGlrZYM0HKHfsJdsAgAETAAOZGVmaW5pdGlvblR5cGV0ABpMeHNidGkvYXBpL0RlZmluaXRpb25UeXBlO1sAEHNhdmVkQW5ub3RhdGlvbnN0ABNbTGphdmEvbGFuZy9TdHJpbmc7TAAIc2VsZlR5cGV0ABBMeHNidGkvYXBpL0xhenk7TAAJc3RydWN0dXJlcQB+ABV4cgAheHNidGkuYXBpLlBhcmFtZXRlcml6ZWREZWZpbml0aW9u+RFusdVQPOICAAFbAA50eXBlUGFyYW1ldGVyc3QAGltMeHNidGkvYXBpL1R5cGVQYXJhbWV0ZXI7eHIAFHhzYnRpLmFwaS5EZWZpbml0aW9uhyob6HFC40YCAARMAAZhY2Nlc3N0ABJMeHNidGkvYXBpL0FjY2VzcztbAAthbm5vdGF0aW9uc3QAF1tMeHNidGkvYXBpL0Fubm90YXRpb247TAAJbW9kaWZpZXJzdAAVTHhzYnRpL2FwaS9Nb2RpZmllcnM7TAAEbmFtZXQAEkxqYXZhL2xhbmcvU3RyaW5nO3hwc3IAEHhzYnRpLmFwaS5QdWJsaWO6WD2ubC1gQgIAAHhyABB4c2J0aS5hcGkuQWNjZXNz3WKa+B1jMUgCAAB4cHVyABdbTHhzYnRpLmFwaS5Bbm5vdGF0aW9uO+uX6xkQ9o1IAgAAeHAAAAAAc3IAE3hzYnRpLmFwaS5Nb2RpZmllcnPHERMhaZzcJAIAAUIABWZsYWdzeHAAdAAIUHJvamVjdDF1cgAaW0x4c2J0aS5hcGkuVHlwZVBhcmFtZXRlcjvZbSYPKJ3ytgIAAHhwAAAAAH5yABh4c2J0aS5hcGkuRGVmaW5pdGlvblR5cGUAAAAAAAAAABIAAHhyAA5qYXZhLmxhbmcuRW51bQAAAAAAAAAAEgAAeHB0AAZNb2R1bGV1cgATW0xqYXZhLmxhbmcuU3RyaW5nO63SVufpHXtHAgAAeHAAAAACdAAQc2NhbGEuZGVwcmVjYXRlZHQAGnNjYWxhLmRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLlNhZmVMYXp5JEltcGw7kU8R9EVMyQIAA1oACGJpdG1hcCQwTAACX3R0ABJMamF2YS9sYW5nL09iamVjdDtMAARldmFsdAARTHNjYWxhL0Z1bmN0aW9uMDt4cgAWeHNidGkuYXBpLkFic3RyYWN0TGF6edN3tQFfu+egAgAAeHAAcHNyACB4c2J0aS5TYWZlTGF6eSQkYW5vbmZ1biRzdHJpY3QkMeFloEqVKL/fAgABTAAHdmFsdWUkMXEAfgAxeHBzcgATeHNidGkuYXBpLkVtcHR5VHlwZbz9nkZJO4kkAgAAeHIAFHhzYnRpLmFwaS5TaW1wbGVUeXBlcnhiiCEjv0ACAAB4cgAOeHNidGkuYXBpLlR5cGU/atkhFkmqygIAAHhwc3EAfgAwAHBzcQB+ADVzcgATeHNidGkuYXBpLlN0cnVjdHVyZamq+YCTb9gAAgADTAAIZGVjbGFyZWRxAH4AFUwACWluaGVyaXRlZHEAfgAVTAAHcGFyZW50c3EAfgAVeHEAfgA5c3EAfgAwAHBzcQB+ADV1cQB+ABAAAAAAc3EAfgAwAHBzcQB+ADV1cQB+ABAAAAABc3IADXhzYnRpLmFwaS5EZWZSvp/ifLQ2aQIAAkwACnJldHVyblR5cGV0ABBMeHNidGkvYXBpL1R5cGU7WwAPdmFsdWVQYXJhbWV0ZXJzdAAaW0x4c2J0aS9hcGkvUGFyYW1ldGVyTGlzdDt4cQB+ABZxAH4AIHVxAH4AIQAAAAFzcgAUeHNidGkuYXBpLkFubm90YXRpb27eDoGi9lwKsgIAAlsACWFyZ3VtZW50c3QAH1tMeHNidGkvYXBpL0Fubm90YXRpb25Bcmd1bWVudDtMAARiYXNlcQB+AEZ4cHVyAB9bTHhzYnRpLmFwaS5Bbm5vdGF0aW9uQXJndW1lbnQ7UZ2mjzglD3gCAAB4cAAAAAFzcgAceHNidGkuYXBpLkFubm90YXRpb25Bcmd1bWVudNZFsdgDGxd8AgACTAAEbmFtZXEAfgAcTAAFdmFsdWVxAH4AHHhwdAAAdAAqKCJtYWluIHNob3VsZCBub3QgYmUgb3ZlcnJpZGRlbiIsIjIuMTEuMCIpc3IAFHhzYnRpLmFwaS5Qcm9qZWN0aW9u89KNVOlFpC0CAAJMAAJpZHEAfgAcTAAGcHJlZml4dAAWTHhzYnRpL2FwaS9TaW1wbGVUeXBlO3hxAH4AOHQAFGRlcHJlY2F0ZWRPdmVycmlkaW5nc3IAE3hzYnRpLmFwaS5TaW5nbGV0b278p1/4z1bkRgIAAUwABHBhdGh0ABBMeHNidGkvYXBpL1BhdGg7eHEAfgA4c3IADnhzYnRpLmFwaS5QYXRomz1cCM6lJ4QCAAFbAApjb21wb25lbnRzdAAaW0x4c2J0aS9hcGkvUGF0aENvbXBvbmVudDt4cHVyABpbTHhzYnRpLmFwaS5QYXRoQ29tcG9uZW50O0PaCXQtZxZ0AgAAeHAAAAACc3IADHhzYnRpLmFwaS5JZJgybIs3U8RAAgABTAACaWRxAH4AHHhyABd4c2J0aS5hcGkuUGF0aENvbXBvbmVudF+aIlsuhp+8AgAAeHB0AAVzY2FsYXNyAA54c2J0aS5hcGkuVGhpc9sJ7abMWkBcAgAAeHEAfgBgc3EAfgAjAHQABG1haW51cQB+ACYAAAAAc3EAfgBTdAAEVW5pdHEAfgBZdXIAGltMeHNidGkuYXBpLlBhcmFtZXRlckx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zcQB+AD1zcQB+ADAAcHNxAH4ANXVxAH4AEAAAAABzcQB+ADAAcHNxAH4ANXVxAH4AEAAAAABzcQB+ADAAcHNxAH4ANXVxAH4AfQAAAAdzcQB+AFNxAH4BG3NxAH4AV3NxAH4AWnVxAH4AXQAAAAJzcQB+AF9xAH4AYnEAfgBkc3EAfgBTcQB+ARtzcQB+AFdzcQB+AFp1cQB+AF0AAAADc3EAfgBfcQB+AIVzcQB+AF90AAJpb3EAfgBkc3EAfgBTcQB+AShxAH4Be3NxAH4AU3QABkVxdWFsc3EAfgF7c3EAfgBTdAAOQml0Q29pbk1lc3NhZ2VzcQB+AFdzcQB+AFp1cQB+AF0AAAABcQB+AGRzcQB+AFNxAH4AkHNxAH4AV3NxAH4AWnVxAH4AXQAAAANzcQB+AF9xAH4AhXNxAH4AX3EAfgCHcQB+AGRzcQB+AFNxAH4AknEAfgF7c3EAfgAScQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQADFdvcmtlclVwZGF0ZXVxAH4AJgAAAABxAH4AmHVxAH4ALAAAAABzcQB+ADAAcHNxAH4ANXEAfgA6c3EAfgAwAHBzcQB+ADVzcQB+AD1zcQB+ADAAcHNxAH4ANXVxAH4AEAAAAABzcQB+ADAAcHNxAH4ANXVxAH4AEAAAAABzcQB+ADAAcHNxAH4ANXVxAH4AfQAAAAdzcQB+AFNxAH4BG3NxAH4AV3NxAH4AWnVxAH4AXQAAAAJzcQB+AF9xAH4AYnEAfgBkc3EAfgBTcQB+ARtzcQB+AFdzcQB+AFp1cQB+AF0AAAADc3EAfgBfcQB+AIVzcQB+AF90AAJpb3EAfgBkc3EAfgBTcQB+AShxAH4BqnNxAH4AU3QABkVxdWFsc3EAfgGqc3EAfgBTdAAOQml0Q29pbk1lc3NhZ2VzcQB+AFdzcQB+AFp1cQB+AF0AAAABcQB+AGRzcQB+AFNxAH4AkHNxAH4AV3NxAH4AWnVxAH4AXQAAAANzcQB+AF9xAH4AhXNxAH4AX3EAfgCHcQB+AGRzcQB+AFNxAH4AknEAfgGqc3EAfgAScQB+ACB1cQB+ACEAAAAAc3EAfgAjAHQACFNlcnZlcklwdXEAfgAmAAAAAHEAfgCYdXEAfgAsAAAAAHNxAH4AMABwc3EAfgA1cQB+ADpzcQB+ADAAcHNxAH4ANXNxAH4APXNxAH4AMABwc3EAfgA1dXEAfgAQAAAAAHNxAH4AMABwc3EAfgA1dXEAfgAQAAAAAHNxAH4AMABwc3EAfgA1dXEAfgB9AAAAB3NxAH4AU3EAfgEbc3EAfgBXc3EAfgBadXEAfgBdAAAAAnNxAH4AX3EAfgBicQB+AGRzcQB+AFNxAH4BG3NxAH4AV3NxAH4AWnVxAH4AXQAAAANzcQB+AF9xAH4AhXNxAH4AX3QAAmlvcQB+AGRzcQB+AFNxAH4BKHEAfgHZc3EAfgBTdAAGRXF1YWxzcQB+AdlzcQB+AFN0AA5CaXRDb2luTWVzc2FnZXNxAH4AV3NxAH4AWnVxAH4AXQAAAAFxAH4AZHNxAH4AU3EAfgCQc3EAfgBXc3EAfgBadXEAfgBdAAAAA3NxAH4AX3EAfgCFc3EAfgBfcQB+AIdxAH4AZHNxAH4AU3EAfgCScQB+AdlzcQB+ABJxAH4AIHVxAH4AIQAAAABzcQB+ACMAdAAMU2NoZWR1bGVXb3JrdXEAfgAmAAAAAHEAfgCYdXEAfgAsAAAAAHNxAH4AMABwc3EAfgA1cQB+ADpzcQB+ADAAcHNxAH4ANXNxAH4APXNxAH4AMABwc3EAfgA1dXEAfgAQAAAAAHNxAH4AMABwc3EAfgA1dXEAfgAQAAAAAHNxAH4AMABwc3EAfgA1dXEAfgB9AAAAB3NxAH4AU3EAfgEbc3EAfgBXc3EAfgBadXEAfgBdAAAAAnNxAH4AX3EAfgBicQB+AGRzcQB+AFNxAH4BG3NxAH4AV3NxAH4AWnVxAH4AXQAAAANzcQB+AF9xAH4AhXNxAH4AX3QAAmlvcQB+AGRzcQB+AFNxAH4BKHEAfgIIc3EAfgBTdAAGRXF1YWxzcQB+AghzcQB+AFN0AA5CaXRDb2luTWVzc2FnZXNxAH4AV3NxAH4AWnVxAH4AXQAAAAFxAH4AZHNxAH4AU3EAfgCQc3EAfgBXc3EAfgBadXEAfgBdAAAAA3NxAH4AX3EAfgCFc3EAfgBfcQB+AIdxAH4AZHNxAH4AU3EAfgCScQB+Agh1cgAUW0x4c2J0aS5hcGkuUGFja2FnZTtbExk3cKcnoQIAAHhwAAAAAHNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSlv0iRd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5cQB+ABxMAA9zb3VyY2VEaXJlY3RvcnlxAH4AHHhwdAA1RTpcc2NhbGFfZWNsaXBzZVxlY2xpcHNlXHdvcmtzcGFjZVxCaXRjb2luUHJvamVjdFxiaW50ADVFOlxzY2FsYV9lY2xpcHNlXGVjbGlwc2Vcd29ya3NwYWNlXEJpdGNvaW5Qcm9qZWN0XHNyY3VyAAJbQqzzF/gGCFTgAgAAeHAAAAAUrCHgCDyNCSaY4huV4/uBhCmqkWM=
+external apis:
+0 items
+source infos:
+1 items
+E:\scala_eclipse\eclipse\workspace\BitcoinProject\src\Project1.scala -> 
+AAAAAAAAAAA=
+compilations:
+1 items
+0 -> rO0ABXNyABV4c2J0aS5hcGkuQ29tcGlsYXRpb27t+uDDauigQgIAAkoACXN0YXJ0VGltZVsAB291dHB1dHN0ABpbTHhzYnRpL2FwaS9PdXRwdXRTZXR0aW5nO3hwAAABSlv0iRd1cgAaW0x4c2J0aS5hcGkuT3V0cHV0U2V0dGluZzt/asLzp4elQgIAAHhwAAAAAXNyABd4c2J0aS5hcGkuT3V0cHV0U2V0dGluZ3rZmkd0+x17AgACTAAPb3V0cHV0RGlyZWN0b3J5dAASTGphdmEvbGFuZy9TdHJpbmc7TAAPc291cmNlRGlyZWN0b3J5cQB+AAZ4cHQANUU6XHNjYWxhX2VjbGlwc2VcZWNsaXBzZVx3b3Jrc3BhY2VcQml0Y29pblByb2plY3RcYmludAA1RTpcc2NhbGFfZWNsaXBzZVxlY2xpcHNlXHdvcmtzcGFjZVxCaXRjb2luUHJvamVjdFxzcmM=
